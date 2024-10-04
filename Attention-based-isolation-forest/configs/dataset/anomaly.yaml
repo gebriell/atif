@@ -1,0 +1,3 @@
+_target_: atif.datasets.DatasetAnomaly
+path: "/home/dev/files/data/env/Attention-based-isolation-forest/atif/datasets/amonaly.csv"
+target_col: "outlier"
