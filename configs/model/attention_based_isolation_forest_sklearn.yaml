@@ -3,11 +3,11 @@ type_model:
   mode: 1
 
 n_estimators: 150
-seed: 1234 # 1430
+seed: 1430
 
 attention_param:
-  eps: 0.25 # contamination parameter
-  softmax_tau: 0.8 # anomaly_score_threshold
+  eps: 0.5 # contamination parameter
+  softmax_tau: 0.4 # anomaly_score_threshold
   attention_sigma_threshold: 0.5
 
 isolation_forest_param:
