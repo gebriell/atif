@@ -11,8 +11,9 @@ Initial Commit
 
 # file paths:
 
- - logger.yaml
- - anomaly.yaml
+ - configs/logger.yaml
+ - configs/dataset/anomaly.yaml
+ - datasets/dataset_anomaly.py
 
 # run:
 
@@ -26,7 +27,3 @@ Initial Commit
 
  - run in optimzation to find ideal parameters
  - run in inference to get output
-
-## in configs/dataset/anomaly.yaml:
-
- - set path to dataset here
