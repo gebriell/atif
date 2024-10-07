@@ -35,7 +35,7 @@ class DatasetAnomaly(AbstractDataset):
         plt.xticks(range(2), ["Normal", "Outlier"])
         plt.xlabel("Class")
         plt.ylabel("Frequency")
-        plt.savefig("/home/dev/files/data/env/Attention-based-isolation-forest/atif/anomaly_dataset.jpg")
+        plt.savefig("")
 
         # Split the data
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
