@@ -1,7 +1,5 @@
 # Attention-based-isolation-forest
 
-Initial Commit
-
 # Changes
 
  - updated requirements.txt
