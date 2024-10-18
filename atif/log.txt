@@ -1,0 +1,2974 @@
+End logger: end model inference
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7D442B289940), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x75DE66945840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 137/490 = 28.0%
+F1 score 0.2767
+TPR score 0.1606, FPR 0.0000
+TP 22.0000, FP 0.0000
+FN 115.0000, TN 490.0000
+auc nan
+accuracy 0.8166
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7B5F5A7D5940), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 137/490 = 28.0%
+F1 score 0.2767
+TPR score 0.1606, FPR 0.0000
+TP 22.0000, FP 0.0000
+FN 115.0000, TN 490.0000
+auc nan
+accuracy 0.8166
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74382D1B5940), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 137/490 = 28.0%
+F1 score 0.7706
+TPR score 0.9562, FPR 0.1469
+TP 131.0000, FP 72.0000
+FN 6.0000, TN 418.0000
+auc nan
+accuracy 0.8756
+End logger: end model inference
+End logger: end model inference
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x78EABFF39840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2547
+TPR score 0.7853, FPR 0.4183
+TP 150.0000, FP 837.0000
+FN 41.0000, TN 1164.0000
+auc nan
+accuracy 0.5995
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x72064A889840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3184
+TPR score 0.2042, FPR 0.0075
+TP 39.0000, FP 15.0000
+FN 152.0000, TN 1986.0000
+auc nan
+accuracy 0.9238
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x799842A55840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2547
+TPR score 0.7853, FPR 0.4183
+TP 150.0000, FP 837.0000
+FN 41.0000, TN 1164.0000
+auc nan
+accuracy 0.5995
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x730E64929840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3184
+TPR score 0.2042, FPR 0.0075
+TP 39.0000, FP 15.0000
+FN 152.0000, TN 1986.0000
+auc nan
+accuracy 0.9238
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7091F34D9840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2547
+TPR score 0.7853, FPR 0.4183
+TP 150.0000, FP 837.0000
+FN 41.0000, TN 1164.0000
+auc nan
+accuracy 0.5995
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7328DF2DD840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3765
+TPR score 0.7539, FPR 0.2149
+TP 144.0000, FP 430.0000
+FN 47.0000, TN 1571.0000
+auc nan
+accuracy 0.7824
+End logger: end model inference
+///////////////////////////////////////////////////////
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=20,
+                random_state=RandomState(MT19937) at 0x7DB07B19D740), '_original_if_offset': -0.6, '_n_estimators': 20, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3594
+TPR score 0.2408, FPR 0.0095
+TP 46.0000, FP 19.0000
+FN 145.0000, TN 1982.0000
+auc nan
+accuracy 0.9252
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=20,
+                random_state=RandomState(MT19937) at 0x752F288D5840), '_original_if_offset': None, '_n_estimators': 20, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3102
+TPR score 0.8639, FPR 0.3538
+TP 165.0000, FP 708.0000
+FN 26.0000, TN 1293.0000
+auc nan
+accuracy 0.6651
+End logger: end model inference
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=25,
+                random_state=RandomState(MT19937) at 0x701D4E8D5840), '_original_if_offset': None, '_n_estimators': 25, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3102
+TPR score 0.8639, FPR 0.3538
+TP 165.0000, FP 708.0000
+FN 26.0000, TN 1293.0000
+auc nan
+accuracy 0.6651
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x75FA5E129840), '_original_if_offset': None, '_n_estimators': 50, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3102
+TPR score 0.8639, FPR 0.3538
+TP 165.0000, FP 708.0000
+FN 26.0000, TN 1293.0000
+auc nan
+accuracy 0.6651
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=75,
+                random_state=RandomState(MT19937) at 0x7785FE6B1840), '_original_if_offset': None, '_n_estimators': 75, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3102
+TPR score 0.8639, FPR 0.3538
+TP 165.0000, FP 708.0000
+FN 26.0000, TN 1293.0000
+auc nan
+accuracy 0.6651
+End logger: end model inference
+------------------------------------------------------------------
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x75AFF6039840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3765
+TPR score 0.7539, FPR 0.2149
+TP 144.0000, FP 430.0000
+FN 47.0000, TN 1571.0000
+auc nan
+accuracy 0.7824
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=200,
+                random_state=RandomState(MT19937) at 0x79BC6CC89840), '_original_if_offset': None, '_n_estimators': 200, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3554
+TPR score 0.6754, FPR 0.2029
+TP 129.0000, FP 406.0000
+FN 62.0000, TN 1595.0000
+auc nan
+accuracy 0.7865
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=200,
+                random_state=RandomState(MT19937) at 0x711897855840), '_original_if_offset': None, '_n_estimators': 200, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3554
+TPR score 0.6754, FPR 0.2029
+TP 129.0000, FP 406.0000
+FN 62.0000, TN 1595.0000
+auc nan
+accuracy 0.7865
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E1042A11540), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 137/490 = 28.0%
+F1 score 0.8037
+TPR score 0.9562, FPR 0.1184
+TP 131.0000, FP 58.0000
+FN 6.0000, TN 432.0000
+auc nan
+accuracy 0.8979
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7AED46191840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x71D480545840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7750C1399840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x76A015AB5840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7D559B48D840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2954
+TPR score 0.1832, FPR 0.0055
+TP 35.0000, FP 11.0000
+FN 156.0000, TN 1990.0000
+auc nan
+accuracy 0.9238
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x789F52E89840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3622
+TPR score 0.2408, FPR 0.0085
+TP 46.0000, FP 17.0000
+FN 145.0000, TN 1984.0000
+auc nan
+accuracy 0.9261
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x739348C39840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3765
+TPR score 0.7539, FPR 0.2149
+TP 144.0000, FP 430.0000
+FN 47.0000, TN 1571.0000
+auc nan
+accuracy 0.7824
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7FA52B405840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.1, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77F3C0D49840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.1, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=200,
+                random_state=RandomState(MT19937) at 0x78A58B0D5840), '_original_if_offset': None, '_n_estimators': 200, '_eps': 1.0, '_softmax_tau': 0.6, '_attention_sigma_threshold': 0.9, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.0000
+TPR score 0.0000, FPR 0.0000
+TP 0.0000, FP 0.0000
+FN 191.0000, TN 2001.0000
+auc nan
+accuracy 0.9129
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=200,
+                random_state=RandomState(MT19937) at 0x7BA25D6B5840), '_original_if_offset': None, '_n_estimators': 200, '_eps': 1.0, '_softmax_tau': 0.6, '_attention_sigma_threshold': 0.9, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.0000
+TPR score 0.0000, FPR 0.0000
+TP 0.0000, FP 0.0000
+FN 191.0000, TN 2001.0000
+auc nan
+accuracy 0.9129
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=1000,
+                random_state=RandomState(MT19937) at 0x79C484BB9840), '_original_if_offset': None, '_n_estimators': 1000, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2774
+TPR score 0.6492, FPR 0.2894
+TP 124.0000, FP 579.0000
+FN 67.0000, TN 1422.0000
+auc nan
+accuracy 0.7053
+End logger: end model inference
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x73368DBA1840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.0, '_softmax_tau': 0.3, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7AF8314AD840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.0, '_softmax_tau': 0.4, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x794C084D1840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.7, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3765
+Precision score 0.2509
+Recall score 0.7539
+TPR score 0.7539, FPR 0.2149
+TP 144.0000, FP 430.0000
+FN 47.0000, TN 1571.0000
+auc nan
+accuracy 0.7824
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7C60D808D840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 5.5, '_softmax_tau': 0.7, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2210
+Precision score 0.1296
+Recall score 0.7487
+TPR score 0.7487, FPR 0.4798
+TP 143.0000, FP 960.0000
+FN 48.0000, TN 1041.0000
+auc nan
+accuracy 0.5401
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x70B6A20DD840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.6, '_attention_sigma_threshold': 0.9, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.0000
+Precision score 0.0000
+Recall score 0.0000
+TPR score 0.0000, FPR 0.0000
+TP 0.0000, FP 0.0000
+FN 191.0000, TN 2001.0000
+auc nan
+accuracy 0.9129
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x70ECB0EB5840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.6, '_attention_sigma_threshold': 0.1, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7690925B5840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.5, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3765
+Precision score 0.2509
+Recall score 0.7539
+TPR score 0.7539, FPR 0.2149
+TP 144.0000, FP 430.0000
+FN 47.0000, TN 1571.0000
+auc nan
+accuracy 0.7824
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77B9C73A1840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.3, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3765
+Precision score 0.2509
+Recall score 0.7539
+TPR score 0.7539, FPR 0.2149
+TP 144.0000, FP 430.0000
+FN 47.0000, TN 1571.0000
+auc nan
+accuracy 0.7824
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77860DAD5840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.75, '_softmax_tau': 0.75, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=250,
+                random_state=RandomState(MT19937) at 0x7BBD2BC89840), '_original_if_offset': None, '_n_estimators': 250, '_eps': 0.75, '_softmax_tau': 0.75, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=250,
+                random_state=RandomState(MT19937) at 0x70C1BAF4D840), '_original_if_offset': None, '_n_estimators': 250, '_eps': 0.75, '_softmax_tau': 0.2, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=250,
+                random_state=RandomState(MT19937) at 0x74F837AD5840), '_original_if_offset': None, '_n_estimators': 250, '_eps': 0.25, '_softmax_tau': 0.7, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x780DB813D840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.8, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+End logger: end model optimization
+End logger: end model optimization
+End logger: end model optimization
+End logger: end model optimization
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7FC6C24D5840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3622
+Precision score 0.7302
+Recall score 0.2408
+TPR score 0.2408, FPR 0.0085
+TP 46.0000, FP 17.0000
+FN 145.0000, TN 1984.0000
+auc nan
+accuracy 0.9261
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E3CBE52D840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x789A7E9B9840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+End logger: end model optimization
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7FCF2CAD5840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+--------------------------------
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74E922C89840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7983F5395840), '_original_if_offset': -0.4, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1691
+Precision score 0.0924
+Recall score 0.9895
+TPR score 0.9895, FPR 0.9275
+TP 189.0000, FP 1856.0000
+FN 2.0000, TN 145.0000
+auc nan
+accuracy 0.1524
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7C5FAC789840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4405
+Precision score 0.3199
+Recall score 0.7068
+TPR score 0.7068, FPR 0.1434
+TP 135.0000, FP 287.0000
+FN 56.0000, TN 1714.0000
+auc nan
+accuracy 0.8435
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x73C253EDD840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2522
+Precision score 0.7436
+Recall score 0.1518
+TPR score 0.1518, FPR 0.0050
+TP 29.0000, FP 10.0000
+FN 162.0000, TN 1991.0000
+auc nan
+accuracy 0.9215
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x71251ABB9840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4405
+Precision score 0.3199
+Recall score 0.7068
+TPR score 0.7068, FPR 0.1434
+TP 135.0000, FP 287.0000
+FN 56.0000, TN 1714.0000
+auc nan
+accuracy 0.8435
+End logger: end model inference
+////////////////////////////////
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x744915DF5840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4405
+Precision score 0.3199
+Recall score 0.7068
+TPR score 0.7068, FPR 0.1434
+TP 135.0000, FP 287.0000
+FN 56.0000, TN 1714.0000
+auc nan
+accuracy 0.8435
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74AAFB885840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x71AF100D1840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.8, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7EB229DBD840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E0330FA1840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2522
+Precision score 0.7436
+Recall score 0.1518
+TPR score 0.1518, FPR 0.0050
+TP 29.0000, FP 10.0000
+FN 162.0000, TN 1991.0000
+auc nan
+accuracy 0.9215
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7D9A078B5840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4405
+Precision score 0.3199
+Recall score 0.7068
+TPR score 0.7068, FPR 0.1434
+TP 135.0000, FP 287.0000
+FN 56.0000, TN 1714.0000
+auc nan
+accuracy 0.8435
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x79FBCBEDD840), '_original_if_offset': -0.4, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1691
+Precision score 0.0924
+Recall score 0.9895
+TPR score 0.9895, FPR 0.9275
+TP 189.0000, FP 1856.0000
+FN 2.0000, TN 145.0000
+auc nan
+accuracy 0.1524
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x75829BD3D840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77682AB29840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4405
+Precision score 0.3199
+Recall score 0.7068
+TPR score 0.7068, FPR 0.1434
+TP 135.0000, FP 287.0000
+FN 56.0000, TN 1714.0000
+auc nan
+accuracy 0.8435
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=200,
+                random_state=RandomState(MT19937) at 0x784F0C375840), '_original_if_offset': -0.5, '_n_estimators': 200, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4342
+Precision score 0.3165
+Recall score 0.6911
+TPR score 0.6911, FPR 0.1424
+TP 132.0000, FP 285.0000
+FN 59.0000, TN 1716.0000
+auc nan
+accuracy 0.8431
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(random_state=RandomState(MT19937) at 0x717ACFF8D840), '_original_if_offset': -0.5, '_n_estimators': 100, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4459
+Precision score 0.3292
+Recall score 0.6911
+TPR score 0.6911, FPR 0.1344
+TP 132.0000, FP 269.0000
+FN 59.0000, TN 1732.0000
+auc nan
+accuracy 0.8504
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=75,
+                random_state=RandomState(MT19937) at 0x7422393A5840), '_original_if_offset': -0.5, '_n_estimators': 75, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4491
+Precision score 0.3351
+Recall score 0.6806
+TPR score 0.6806, FPR 0.1289
+TP 130.0000, FP 258.0000
+FN 61.0000, TN 1743.0000
+auc nan
+accuracy 0.8545
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x7ECDFAE85840), '_original_if_offset': -0.5, '_n_estimators': 50, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4565
+Precision score 0.3325
+Recall score 0.7277
+TPR score 0.7277, FPR 0.1394
+TP 139.0000, FP 279.0000
+FN 52.0000, TN 1722.0000
+auc nan
+accuracy 0.8490
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=25,
+                random_state=RandomState(MT19937) at 0x7389112E1840), '_original_if_offset': -0.5, '_n_estimators': 25, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4385
+Precision score 0.3138
+Recall score 0.7277
+TPR score 0.7277, FPR 0.1519
+TP 139.0000, FP 304.0000
+FN 52.0000, TN 1697.0000
+auc nan
+accuracy 0.8376
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x7154A9485840), '_original_if_offset': -0.5, '_n_estimators': 50, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4565
+Precision score 0.3325
+Recall score 0.7277
+TPR score 0.7277, FPR 0.1394
+TP 139.0000, FP 279.0000
+FN 52.0000, TN 1722.0000
+auc nan
+accuracy 0.8490
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x7886D6195840), '_original_if_offset': -0.5, '_n_estimators': 50, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3954
+Precision score 0.2874
+Recall score 0.6335
+TPR score 0.6335, FPR 0.1499
+TP 121.0000, FP 300.0000
+FN 70.0000, TN 1701.0000
+auc nan
+accuracy 0.8312
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x741F7308D840), '_original_if_offset': -0.5, '_n_estimators': 50, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4292
+Precision score 0.3026
+Recall score 0.7382
+TPR score 0.7382, FPR 0.1624
+TP 141.0000, FP 325.0000
+FN 50.0000, TN 1676.0000
+auc nan
+accuracy 0.8289
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x7817468B9840), '_original_if_offset': -0.5, '_n_estimators': 50, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4423
+Precision score 0.3187
+Recall score 0.7225
+TPR score 0.7225, FPR 0.1474
+TP 138.0000, FP 295.0000
+FN 53.0000, TN 1706.0000
+auc nan
+accuracy 0.8412
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x7F2039189840), '_original_if_offset': None, '_n_estimators': 50, '_eps': 0.25, '_softmax_tau': 0.8, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=50,
+                random_state=RandomState(MT19937) at 0x73D596995840), '_original_if_offset': None, '_n_estimators': 50, '_eps': 0.5, '_softmax_tau': 0.8, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=200,
+                random_state=RandomState(MT19937) at 0x77F9DE1B5840), '_original_if_offset': None, '_n_estimators': 200, '_eps': 0.5, '_softmax_tau': 0.8, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77AA5FE55840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.3, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4316
+Precision score 0.3875
+Recall score 0.4869
+TPR score 0.4869, FPR 0.0735
+TP 93.0000, FP 147.0000
+FN 98.0000, TN 1854.0000
+auc nan
+accuracy 0.8882
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x73F0D2395840), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 30, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2933
+Precision score 0.1767
+Recall score 0.8639
+TPR score 0.8639, FPR 0.3843
+TP 165.0000, FP 769.0000
+FN 26.0000, TN 1232.0000
+auc nan
+accuracy 0.6373
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x756BE46D9440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4412
+Precision score 0.3186
+Recall score 0.7173
+TPR score 0.7173, FPR 0.1464
+TP 137.0000, FP 293.0000
+FN 54.0000, TN 1708.0000
+auc nan
+accuracy 0.8417
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7C5D3F479840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.4667
+Precision score 0.3415
+Recall score 0.7368
+TPR score 0.7368, FPR 0.1492
+TP 14.0000, FP 27.0000
+FN 5.0000, TN 154.0000
+auc nan
+accuracy 0.8400
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x76F3064B9840), '_original_if_offset': 0, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.1735
+Precision score 0.0950
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 19.0000, FP 181.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0950
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7C4BB92B1840), '_original_if_offset': 0, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.1735
+Precision score 0.0950
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 19.0000, FP 181.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0950
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E7B85C3D840), '_original_if_offset': -0.1, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.1735
+Precision score 0.0950
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 19.0000, FP 181.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0950
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E394FAB5840), '_original_if_offset': -0.2, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.1735
+Precision score 0.0950
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 19.0000, FP 181.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0950
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77190E4D9840), '_original_if_offset': -0.3, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.1735
+Precision score 0.0950
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 19.0000, FP 181.0000
+FN 0.0000, TN 0.0000
+auc nan
+accuracy 0.0950
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77C94E93D840), '_original_if_offset': -0.4, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.1776
+Precision score 0.0974
+Recall score 1.0000
+TPR score 1.0000, FPR 0.9724
+TP 19.0000, FP 176.0000
+FN 0.0000, TN 5.0000
+auc nan
+accuracy 0.1200
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74EFE8BB9840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.4667
+Precision score 0.3415
+Recall score 0.7368
+TPR score 0.7368, FPR 0.1492
+TP 14.0000, FP 27.0000
+FN 5.0000, TN 154.0000
+auc nan
+accuracy 0.8400
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x704D8D6AD840), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.1905
+Precision score 1.0000
+Recall score 0.1053
+TPR score 0.1053, FPR 0.0000
+TP 2.0000, FP 0.0000
+FN 17.0000, TN 181.0000
+auc nan
+accuracy 0.9150
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E53304CD840), '_original_if_offset': -0.7, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.0000
+Precision score 0.0000
+Recall score 0.0000
+TPR score 0.0000, FPR 0.0000
+TP 0.0000, FP 0.0000
+FN 19.0000, TN 181.0000
+auc nan
+accuracy 0.9050
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7FDEEBFA1840), '_original_if_offset': -0.8, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.0000
+Precision score 0.0000
+Recall score 0.0000
+TPR score 0.0000, FPR 0.0000
+TP 0.0000, FP 0.0000
+FN 19.0000, TN 181.0000
+auc nan
+accuracy 0.9050
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7486448DD840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.4667
+Precision score 0.3415
+Recall score 0.7368
+TPR score 0.7368, FPR 0.1492
+TP 14.0000, FP 27.0000
+FN 5.0000, TN 154.0000
+auc nan
+accuracy 0.8400
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7EA61268D440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4361
+Precision score 0.3104
+Recall score 0.7330
+TPR score 0.7330, FPR 0.1554
+TP 140.0000, FP 311.0000
+FN 51.0000, TN 1690.0000
+auc nan
+accuracy 0.8349
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7CB29F6D5440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4242
+Precision score 0.2928
+Recall score 0.7696
+TPR score 0.7696, FPR 0.1774
+TP 147.0000, FP 355.0000
+FN 44.0000, TN 1646.0000
+auc nan
+accuracy 0.8180
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74E3E6DB9840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.4667
+Precision score 0.3415
+Recall score 0.7368
+TPR score 0.7368, FPR 0.1492
+TP 14.0000, FP 27.0000
+FN 5.0000, TN 154.0000
+auc nan
+accuracy 0.8400
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7DEE37855840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 31/369 = 8.4%
+F1 score 0.4561
+Precision score 0.3133
+Recall score 0.8387
+TPR score 0.8387, FPR 0.1545
+TP 26.0000, FP 57.0000
+FN 5.0000, TN 312.0000
+auc nan
+accuracy 0.8450
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7EC18FB3D840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 61/539 = 11.3%
+F1 score 0.5269
+Precision score 0.3920
+Recall score 0.8033
+TPR score 0.8033, FPR 0.1410
+TP 49.0000, FP 76.0000
+FN 12.0000, TN 463.0000
+auc nan
+accuracy 0.8533
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7F2A1D7ED840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 66/734 = 9.0%
+F1 score 0.3774
+Precision score 0.2740
+Recall score 0.6061
+TPR score 0.6061, FPR 0.1444
+TP 40.0000, FP 106.0000
+FN 26.0000, TN 628.0000
+auc nan
+accuracy 0.8350
+End logger: end model inference
+---------------------------------------------------
+1000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x756AC38AD840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 19/181 = 10.5%
+F1 score 0.4667
+Precision score 0.3415
+Recall score 0.7368
+TPR score 0.7368, FPR 0.1492
+TP 14.0000, FP 27.0000
+FN 5.0000, TN 154.0000
+auc nan
+accuracy 0.8400
+End logger: end model inference
+---------------------------------------------------
+2000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74745E995840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 31/369 = 8.4%
+F1 score 0.4561
+Precision score 0.3133
+Recall score 0.8387
+TPR score 0.8387, FPR 0.1545
+TP 26.0000, FP 57.0000
+FN 5.0000, TN 312.0000
+auc nan
+accuracy 0.8450
+End logger: end model inference
+---------------------------------------------------
+3000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7191A3B35840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 61/539 = 11.3%
+F1 score 0.5269
+Precision score 0.3920
+Recall score 0.8033
+TPR score 0.8033, FPR 0.1410
+TP 49.0000, FP 76.0000
+FN 12.0000, TN 463.0000
+auc nan
+accuracy 0.8533
+End logger: end model inference
+---------------------------------------------------
+4000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E911BECD840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 66/734 = 9.0%
+F1 score 0.3774
+Precision score 0.2740
+Recall score 0.6061
+TPR score 0.6061, FPR 0.1444
+TP 40.0000, FP 106.0000
+FN 26.0000, TN 628.0000
+auc nan
+accuracy 0.8350
+End logger: end model inference
+---------------------------------------------------
+5000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7DB311595840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 89/911 = 9.8%
+F1 score 0.4361
+Precision score 0.3277
+Recall score 0.6517
+TPR score 0.6517, FPR 0.1306
+TP 58.0000, FP 119.0000
+FN 31.0000, TN 792.0000
+auc nan
+accuracy 0.8500
+End logger: end model inference
+---------------------------------------------------
+6000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x733ACAC8D840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 112/1088 = 10.3%
+F1 score 0.4439
+Precision score 0.3168
+Recall score 0.7411
+TPR score 0.7411, FPR 0.1645
+TP 83.0000, FP 179.0000
+FN 29.0000, TN 909.0000
+auc nan
+accuracy 0.8267
+End logger: end model inference
+---------------------------------------------------
+7000
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x71EE37605840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 118/1282 = 9.2%
+F1 score 0.3935
+Precision score 0.2885
+Recall score 0.6186
+TPR score 0.6186, FPR 0.1404
+TP 73.0000, FP 180.0000
+FN 45.0000, TN 1102.0000
+auc nan
+accuracy 0.8393
+End logger: end model inference
+---------------------------------------------------
+8000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74D9DD2D5840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 150/1450 = 10.3%
+F1 score 0.4444
+Precision score 0.3368
+Recall score 0.6533
+TPR score 0.6533, FPR 0.1331
+TP 98.0000, FP 193.0000
+FN 52.0000, TN 1257.0000
+auc nan
+accuracy 0.8469
+End logger: end model inference
+---------------------------------------------------
+9000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x70A8FE529840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 147/1653 = 8.9%
+F1 score 0.3857
+Precision score 0.2725
+Recall score 0.6599
+TPR score 0.6599, FPR 0.1567
+TP 97.0000, FP 259.0000
+FN 50.0000, TN 1394.0000
+auc nan
+accuracy 0.8283
+End logger: end model inference
+---------------------------------------------------
+10000
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x772F08BF1840), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 144/1856 = 7.8%
+F1 score 0.3313
+Precision score 0.2325
+Recall score 0.5764
+TPR score 0.5764, FPR 0.1476
+TP 83.0000, FP 274.0000
+FN 61.0000, TN 1582.0000
+auc nan
+accuracy 0.8325
+End logger: end model inference
+---------------------------------------------------
+All
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7288580B1440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4412
+Precision score 0.3186
+Recall score 0.7173
+TPR score 0.7173, FPR 0.1464
+TP 137.0000, FP 293.0000
+FN 54.0000, TN 1708.0000
+auc nan
+accuracy 0.8417
+End logger: end model inference
+####################################################
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7D802D859440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3979
+Precision score 0.2959
+Recall score 0.6073
+TPR score 0.6073, FPR 0.1379
+TP 116.0000, FP 276.0000
+FN 75.0000, TN 1725.0000
+auc nan
+accuracy 0.8399
+End logger: end model inference
+####################################################
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x76DEE7991440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2646
+Precision score 0.1591
+Recall score 0.7853
+TPR score 0.7853, FPR 0.3963
+TP 150.0000, FP 793.0000
+FN 41.0000, TN 1208.0000
+auc nan
+accuracy 0.6195
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7AA3D3E3D440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4299
+Precision score 0.3060
+Recall score 0.7225
+TPR score 0.7225, FPR 0.1564
+TP 138.0000, FP 313.0000
+FN 53.0000, TN 1688.0000
+auc nan
+accuracy 0.8330
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x783172FD5440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2646
+Precision score 0.1591
+Recall score 0.7853
+TPR score 0.7853, FPR 0.3963
+TP 150.0000, FP 793.0000
+FN 41.0000, TN 1208.0000
+auc nan
+accuracy 0.6195
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7BD40ED35440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3979
+Precision score 0.2959
+Recall score 0.6073
+TPR score 0.6073, FPR 0.1379
+TP 116.0000, FP 276.0000
+FN 75.0000, TN 1725.0000
+auc nan
+accuracy 0.8399
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x757E78795440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4031
+Precision score 0.2863
+Recall score 0.6806
+TPR score 0.6806, FPR 0.1619
+TP 130.0000, FP 324.0000
+FN 61.0000, TN 1677.0000
+auc nan
+accuracy 0.8244
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7F636CAB9440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4094
+Precision score 0.2918
+Recall score 0.6859
+TPR score 0.6859, FPR 0.1589
+TP 131.0000, FP 318.0000
+FN 60.0000, TN 1683.0000
+auc nan
+accuracy 0.8276
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x73CB54381440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3850
+Precision score 0.2919
+Recall score 0.5654
+TPR score 0.5654, FPR 0.1309
+TP 108.0000, FP 262.0000
+FN 83.0000, TN 1739.0000
+auc nan
+accuracy 0.8426
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7B755428D440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4108
+Precision score 0.2952
+Recall score 0.6754
+TPR score 0.6754, FPR 0.1539
+TP 129.0000, FP 308.0000
+FN 62.0000, TN 1693.0000
+auc nan
+accuracy 0.8312
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x76D1DA1D9440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4100
+Precision score 0.2924
+Recall score 0.6859
+TPR score 0.6859, FPR 0.1584
+TP 131.0000, FP 317.0000
+FN 60.0000, TN 1684.0000
+auc nan
+accuracy 0.8280
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x740460CE5440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4080
+Precision score 0.2998
+Recall score 0.6387
+TPR score 0.6387, FPR 0.1424
+TP 122.0000, FP 285.0000
+FN 69.0000, TN 1716.0000
+auc nan
+accuracy 0.8385
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7F7B8E199440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4080
+Precision score 0.2998
+Recall score 0.6387
+TPR score 0.6387, FPR 0.1424
+TP 122.0000, FP 285.0000
+FN 69.0000, TN 1716.0000
+auc nan
+accuracy 0.8385
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x729563931440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4216
+Precision score 0.3023
+Recall score 0.6963
+TPR score 0.6963, FPR 0.1534
+TP 133.0000, FP 307.0000
+FN 58.0000, TN 1694.0000
+auc nan
+accuracy 0.8335
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77F3B6BB9440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4412
+Precision score 0.3186
+Recall score 0.7173
+TPR score 0.7173, FPR 0.1464
+TP 137.0000, FP 293.0000
+FN 54.0000, TN 1708.0000
+auc nan
+accuracy 0.8417
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x76450A68D440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4412
+Precision score 0.3186
+Recall score 0.7173
+TPR score 0.7173, FPR 0.1464
+TP 137.0000, FP 293.0000
+FN 54.0000, TN 1708.0000
+auc nan
+accuracy 0.8417
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E8459B25440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4412
+Precision score 0.3186
+Recall score 0.7173
+TPR score 0.7173, FPR 0.1464
+TP 137.0000, FP 293.0000
+FN 54.0000, TN 1708.0000
+auc nan
+accuracy 0.8417
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7B8FCBE89440), '_original_if_offset': -0.6, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2954
+Precision score 0.7609
+Recall score 0.1832
+TPR score 0.1832, FPR 0.0055
+TP 35.0000, FP 11.0000
+FN 156.0000, TN 1990.0000
+auc nan
+accuracy 0.9238
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7417F6CD5440), '_original_if_offset': -0.4, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1696
+Precision score 0.0927
+Recall score 0.9895
+TPR score 0.9895, FPR 0.9240
+TP 189.0000, FP 1849.0000
+FN 2.0000, TN 152.0000
+auc nan
+accuracy 0.1556
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x70FA26AB1440), '_original_if_offset': -0.4, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1709
+Precision score 0.0935
+Recall score 0.9948
+TPR score 0.9948, FPR 0.9210
+TP 190.0000, FP 1843.0000
+FN 1.0000, TN 158.0000
+auc nan
+accuracy 0.1588
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7BEFA9605340), '_original_if_offset': -0.4, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1709
+Precision score 0.0935
+Recall score 0.9948
+TPR score 0.9948, FPR 0.9210
+TP 190.0000, FP 1843.0000
+FN 1.0000, TN 158.0000
+auc 0.5369
+accuracy 0.1588
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7D3C9F391440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2521
+Precision score 0.1461
+Recall score 0.9215
+TPR score 0.9215, FPR 0.5142
+TP 176.0000, FP 1029.0000
+FN 15.0000, TN 972.0000
+auc 0.7036
+accuracy 0.5237
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x71985EF8D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.2, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2521
+Precision score 0.1461
+Recall score 0.9215
+TPR score 0.9215, FPR 0.5142
+TP 176.0000, FP 1029.0000
+FN 15.0000, TN 972.0000
+auc 0.7036
+accuracy 0.5237
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x745C68395440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2332
+Precision score 0.1411
+Recall score 0.6702
+TPR score 0.6702, FPR 0.3893
+TP 128.0000, FP 779.0000
+FN 63.0000, TN 1222.0000
+auc 0.6404
+accuracy 0.6159
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7BD1A72B5440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2875
+Precision score 0.1801
+Recall score 0.7120
+TPR score 0.7120, FPR 0.3093
+TP 136.0000, FP 619.0000
+FN 55.0000, TN 1382.0000
+auc 0.7013
+accuracy 0.6925
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7DF741149440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3060
+Precision score 0.1934
+Recall score 0.7330
+TPR score 0.7330, FPR 0.2919
+TP 140.0000, FP 584.0000
+FN 51.0000, TN 1417.0000
+auc 0.7206
+accuracy 0.7103
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7BE1421D5440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3258
+Precision score 0.2049
+Recall score 0.7958
+TPR score 0.7958, FPR 0.2949
+TP 152.0000, FP 590.0000
+FN 39.0000, TN 1411.0000
+auc 0.7505
+accuracy 0.7130
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7026D2F99440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1971
+Precision score 0.1180
+Recall score 0.5969
+TPR score 0.5969, FPR 0.4258
+TP 114.0000, FP 852.0000
+FN 77.0000, TN 1149.0000
+auc 0.5855
+accuracy 0.5762
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77636F885440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1971
+Precision score 0.1180
+Recall score 0.5969
+TPR score 0.5969, FPR 0.4258
+TP 114.0000, FP 852.0000
+FN 77.0000, TN 1149.0000
+auc 0.5855
+accuracy 0.5762
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7FC2B16AD440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3108
+Precision score 0.1980
+Recall score 0.7225
+TPR score 0.7225, FPR 0.2794
+TP 138.0000, FP 559.0000
+FN 53.0000, TN 1442.0000
+auc 0.7216
+accuracy 0.7208
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x761BE24D9440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc 0.5000
+accuracy 0.0871
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x76EADA08D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc 0.5000
+accuracy 0.0871
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x799945879440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.5, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1603
+Precision score 0.0871
+Recall score 1.0000
+TPR score 1.0000, FPR 1.0000
+TP 191.0000, FP 2001.0000
+FN 0.0000, TN 0.0000
+auc 0.5000
+accuracy 0.0871
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x78A43B8D5440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4564
+Precision score 0.4472
+Recall score 0.4660
+TPR score 0.4660, FPR 0.0550
+TP 89.0000, FP 110.0000
+FN 102.0000, TN 1891.0000
+auc 0.7055
+accuracy 0.9033
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x721C0D451440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.1456
+Precision score 1.0000
+Recall score 0.0785
+TPR score 0.0785, FPR 0.0000
+TP 15.0000, FP 0.0000
+FN 176.0000, TN 2001.0000
+auc 0.5393
+accuracy 0.9197
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7B8ED9E3D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.2667
+Precision score 0.6531
+Recall score 0.1675
+TPR score 0.1675, FPR 0.0085
+TP 32.0000, FP 17.0000
+FN 159.0000, TN 1984.0000
+auc 0.5795
+accuracy 0.9197
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7DC4BD0D5440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3855
+Precision score 0.6310
+Recall score 0.2775
+TPR score 0.2775, FPR 0.0155
+TP 53.0000, FP 31.0000
+FN 138.0000, TN 1970.0000
+auc 0.6310
+accuracy 0.9229
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7A440E609440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3855
+Precision score 0.6310
+Recall score 0.2775
+TPR score 0.2775, FPR 0.0155
+TP 53.0000, FP 31.0000
+FN 138.0000, TN 1970.0000
+auc 0.6310
+accuracy 0.9229
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7E300D251440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4266
+Precision score 0.6421
+Recall score 0.3194
+TPR score 0.3194, FPR 0.0170
+TP 61.0000, FP 34.0000
+FN 130.0000, TN 1967.0000
+auc 0.6512
+accuracy 0.9252
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x71822BF99440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.3935
+Precision score 0.5126
+Recall score 0.3194
+TPR score 0.3194, FPR 0.0290
+TP 61.0000, FP 58.0000
+FN 130.0000, TN 1943.0000
+auc 0.6452
+accuracy 0.9142
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x70AB916D5440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4056
+Precision score 0.4390
+Recall score 0.3770
+TPR score 0.3770, FPR 0.0460
+TP 72.0000, FP 92.0000
+FN 119.0000, TN 1909.0000
+auc 0.6655
+accuracy 0.9037
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7D17CAD19440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4253
+Precision score 0.4713
+Recall score 0.3874
+TPR score 0.3874, FPR 0.0415
+TP 74.0000, FP 83.0000
+FN 117.0000, TN 1918.0000
+auc 0.6730
+accuracy 0.9088
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7809D498D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4375
+Precision score 0.4352
+Recall score 0.4398
+TPR score 0.4398, FPR 0.0545
+TP 84.0000, FP 109.0000
+FN 107.0000, TN 1892.0000
+auc 0.6927
+accuracy 0.9015
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x78F0CBBB9440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4564
+Precision score 0.4472
+Recall score 0.4660
+TPR score 0.4660, FPR 0.0550
+TP 89.0000, FP 110.0000
+FN 102.0000, TN 1891.0000
+auc 0.7055
+accuracy 0.9033
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x73D650AD5440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4564
+Precision score 0.4472
+Recall score 0.4660
+TPR score 0.4660, FPR 0.0550
+TP 89.0000, FP 110.0000
+FN 102.0000, TN 1891.0000
+auc 0.7055
+accuracy 0.9033
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x726C186B1440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4495
+Precision score 0.4341
+Recall score 0.4660
+TPR score 0.4660, FPR 0.0580
+TP 89.0000, FP 116.0000
+FN 102.0000, TN 1885.0000
+auc 0.7040
+accuracy 0.9005
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7C985D609440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.25, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4564
+Precision score 0.4472
+Recall score 0.4660
+TPR score 0.4660, FPR 0.0550
+TP 89.0000, FP 110.0000
+FN 102.0000, TN 1891.0000
+auc 0.7055
+accuracy 0.9033
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7F8B16719440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.5, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4485
+Precision score 0.4416
+Recall score 0.4555
+TPR score 0.4555, FPR 0.0550
+TP 87.0000, FP 110.0000
+FN 104.0000, TN 1891.0000
+auc 0.7003
+accuracy 0.9024
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7FE458C89440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.75, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4375
+Precision score 0.4352
+Recall score 0.4398
+TPR score 0.4398, FPR 0.0545
+TP 84.0000, FP 109.0000
+FN 107.0000, TN 1892.0000
+auc 0.6927
+accuracy 0.9015
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x754FE8545440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4364
+Precision score 0.4330
+Recall score 0.4398
+TPR score 0.4398, FPR 0.0550
+TP 84.0000, FP 110.0000
+FN 107.0000, TN 1891.0000
+auc 0.6924
+accuracy 0.9010
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x768C2BB3D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4364
+Precision score 0.4330
+Recall score 0.4398
+TPR score 0.4398, FPR 0.0550
+TP 84.0000, FP 110.0000
+FN 107.0000, TN 1891.0000
+auc 0.6924
+accuracy 0.9010
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x75945D13D440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4880
+Precision score 0.4179
+Recall score 0.5864
+TPR score 0.5864, FPR 0.0780
+TP 112.0000, FP 156.0000
+FN 79.0000, TN 1845.0000
+auc 0.7542
+accuracy 0.8928
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7DE473B99440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4829
+Precision score 0.3922
+Recall score 0.6283
+TPR score 0.6283, FPR 0.0930
+TP 120.0000, FP 186.0000
+FN 71.0000, TN 1815.0000
+auc 0.7677
+accuracy 0.8828
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x77B91CD9D440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4212
+Precision score 0.3182
+Recall score 0.6230
+TPR score 0.6230, FPR 0.1274
+TP 119.0000, FP 255.0000
+FN 72.0000, TN 1746.0000
+auc 0.7478
+accuracy 0.8508
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7B6D15EDD440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4880
+Precision score 0.4179
+Recall score 0.5864
+TPR score 0.5864, FPR 0.0780
+TP 112.0000, FP 156.0000
+FN 79.0000, TN 1845.0000
+auc 0.7542
+accuracy 0.8928
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x72A54054D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 1.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4345
+Precision score 0.6364
+Recall score 0.3298
+TPR score 0.3298, FPR 0.0180
+TP 63.0000, FP 36.0000
+FN 128.0000, TN 1965.0000
+auc 0.6559
+accuracy 0.9252
+End logger: end model inference
+End logger: end model optimization
+End logger: end model optimization
+End logger: end model optimization
+End logger: end model optimization
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7A29269F1440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5312
+Precision score 0.4752
+Recall score 0.6021
+TPR score 0.6021, FPR 0.0635
+TP 115.0000, FP 127.0000
+FN 76.0000, TN 1874.0000
+auc 0.7693
+accuracy 0.9074
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(random_state=RandomState(MT19937) at 0x7748A3F3D440), '_original_if_offset': -0.5, '_n_estimators': 100, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.4920
+Precision score 0.4385
+Recall score 0.5602
+TPR score 0.5602, FPR 0.0685
+TP 107.0000, FP 137.0000
+FN 84.0000, TN 1864.0000
+auc 0.7459
+accuracy 0.8992
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=175,
+                random_state=RandomState(MT19937) at 0x76EAF9CB5440), '_original_if_offset': -0.5, '_n_estimators': 175, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5236
+Precision score 0.4764
+Recall score 0.5812
+TPR score 0.5812, FPR 0.0610
+TP 111.0000, FP 122.0000
+FN 80.0000, TN 1879.0000
+auc 0.7601
+accuracy 0.9078
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=200,
+                random_state=RandomState(MT19937) at 0x7932B86D1440), '_original_if_offset': -0.5, '_n_estimators': 200, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5192
+Precision score 0.4563
+Recall score 0.6021
+TPR score 0.6021, FPR 0.0685
+TP 115.0000, FP 137.0000
+FN 76.0000, TN 1864.0000
+auc 0.7668
+accuracy 0.9028
+End logger: end model inference
+End logger: end model optimization
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x729154B8D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5918
+Precision score 0.5037
+Recall score 0.7173
+TPR score 0.7173, FPR 0.0675
+TP 137.0000, FP 135.0000
+FN 54.0000, TN 1866.0000
+auc 0.8249
+accuracy 0.9138
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x716F6F88D440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5918
+Precision score 0.5037
+Recall score 0.7173
+TPR score 0.7173, FPR 0.0675
+TP 137.0000, FP 135.0000
+FN 54.0000, TN 1866.0000
+auc 0.8249
+accuracy 0.9138
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x7ED5B7205440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5455
+Precision score 0.4819
+Recall score 0.6283
+TPR score 0.6283, FPR 0.0645
+TP 120.0000, FP 129.0000
+FN 71.0000, TN 1872.0000
+auc 0.7819
+accuracy 0.9088
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x768843851440), '_original_if_offset': None, '_n_estimators': 150, '_eps': 0.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5918
+Precision score 0.5037
+Recall score 0.7173
+TPR score 0.7173, FPR 0.0675
+TP 137.0000, FP 135.0000
+FN 54.0000, TN 1866.0000
+auc 0.8249
+accuracy 0.9138
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': IsolationForest(n_estimators=150,
+                random_state=RandomState(MT19937) at 0x74A78A88D440), '_original_if_offset': -0.5, '_n_estimators': 150, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 191/2001 = 9.5%
+F1 score 0.5455
+Precision score 0.4819
+Recall score 0.6283
+TPR score 0.6283, FPR 0.0645
+TP 120.0000, FP 129.0000
+FN 71.0000, TN 1872.0000
+auc 0.7819
+accuracy 0.9088
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4632
+Precision score 0.4490
+Recall score 0.4783
+TPR score 0.4783, FPR 0.0538
+TP 88.0000, FP 108.0000
+FN 96.0000, TN 1900.0000
+auc 0.7122
+accuracy 0.9069
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5307
+Precision score 0.4843
+Recall score 0.5870
+TPR score 0.5870, FPR 0.0573
+TP 108.0000, FP 115.0000
+FN 76.0000, TN 1893.0000
+auc 0.7648
+accuracy 0.9129
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5231
+Precision score 0.4556
+Recall score 0.6141
+TPR score 0.6141, FPR 0.0672
+TP 113.0000, FP 135.0000
+FN 71.0000, TN 1873.0000
+auc 0.7734
+accuracy 0.9060
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5372
+Precision score 0.5260
+Recall score 0.5489
+TPR score 0.5489, FPR 0.0453
+TP 101.0000, FP 91.0000
+FN 83.0000, TN 1917.0000
+auc 0.7518
+accuracy 0.9206
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5850
+Precision score 0.5442
+Recall score 0.6324
+TPR score 0.6324, FPR 0.0488
+TP 117.0000, FP 98.0000
+FN 68.0000, TN 1909.0000
+auc 0.7918
+accuracy 0.9243
+End logger: end model inference
+
+
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4632
+Precision score 0.4490
+Recall score 0.4783
+TPR score 0.4783, FPR 0.0538
+TP 88.0000, FP 108.0000
+FN 96.0000, TN 1900.0000
+auc 0.7122
+accuracy 0.9069
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5307
+Precision score 0.4843
+Recall score 0.5870
+TPR score 0.5870, FPR 0.0573
+TP 108.0000, FP 115.0000
+FN 76.0000, TN 1893.0000
+auc 0.7648
+accuracy 0.9129
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5231
+Precision score 0.4556
+Recall score 0.6141
+TPR score 0.6141, FPR 0.0672
+TP 113.0000, FP 135.0000
+FN 71.0000, TN 1873.0000
+auc 0.7734
+accuracy 0.9060
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5372
+Precision score 0.5260
+Recall score 0.5489
+TPR score 0.5489, FPR 0.0453
+TP 101.0000, FP 91.0000
+FN 83.0000, TN 1917.0000
+auc 0.7518
+accuracy 0.9206
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5850
+Precision score 0.5442
+Recall score 0.6324
+TPR score 0.6324, FPR 0.0488
+TP 117.0000, FP 98.0000
+FN 68.0000, TN 1909.0000
+auc 0.7918
+accuracy 0.9243
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': None, '_n_estimators': None, '_eps': 0.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5195
+Precision score 0.4502
+Recall score 0.6141
+TPR score 0.6141, FPR 0.0687
+TP 113.0000, FP 138.0000
+FN 71.0000, TN 1870.0000
+auc 0.7727
+accuracy 0.9047
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5982
+Precision score 0.5076
+Recall score 0.7283
+TPR score 0.7283, FPR 0.0647
+TP 134.0000, FP 130.0000
+FN 50.0000, TN 1878.0000
+auc 0.8318
+accuracy 0.9179
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5376
+Precision score 0.4627
+Recall score 0.6413
+TPR score 0.6413, FPR 0.0682
+TP 118.0000, FP 137.0000
+FN 66.0000, TN 1871.0000
+auc 0.7865
+accuracy 0.9074
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.6066
+Precision score 0.5378
+Recall score 0.6957
+TPR score 0.6957, FPR 0.0548
+TP 128.0000, FP 110.0000
+FN 56.0000, TN 1898.0000
+auc 0.8204
+accuracy 0.9243
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.6045
+Precision score 0.5216
+Recall score 0.7189
+TPR score 0.7189, FPR 0.0608
+TP 133.0000, FP 122.0000
+FN 52.0000, TN 1885.0000
+auc 0.8291
+accuracy 0.9206
+End logger: end model inference
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4964
+Precision score 0.4426
+Recall score 0.5652
+TPR score 0.5652, FPR 0.0652
+TP 104.0000, FP 131.0000
+FN 80.0000, TN 1877.0000
+auc 0.7500
+accuracy 0.9037
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5210
+Precision score 0.4387
+Recall score 0.6413
+TPR score 0.6413, FPR 0.0752
+TP 118.0000, FP 151.0000
+FN 66.0000, TN 1857.0000
+auc 0.7831
+accuracy 0.9010
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4818
+Precision score 0.4141
+Recall score 0.5761
+TPR score 0.5761, FPR 0.0747
+TP 106.0000, FP 150.0000
+FN 78.0000, TN 1858.0000
+auc 0.7507
+accuracy 0.8960
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5415
+Precision score 0.4912
+Recall score 0.6033
+TPR score 0.6033, FPR 0.0573
+TP 111.0000, FP 115.0000
+FN 73.0000, TN 1893.0000
+auc 0.7730
+accuracy 0.9142
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5280
+Precision score 0.4504
+Recall score 0.6378
+TPR score 0.6378, FPR 0.0717
+TP 118.0000, FP 144.0000
+FN 67.0000, TN 1863.0000
+auc 0.7830
+accuracy 0.9037
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4964
+Precision score 0.4426
+Recall score 0.5652
+TPR score 0.5652, FPR 0.0652
+TP 104.0000, FP 131.0000
+FN 80.0000, TN 1877.0000
+auc 0.7500
+accuracy 0.9037
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5210
+Precision score 0.4387
+Recall score 0.6413
+TPR score 0.6413, FPR 0.0752
+TP 118.0000, FP 151.0000
+FN 66.0000, TN 1857.0000
+auc 0.7831
+accuracy 0.9010
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4818
+Precision score 0.4141
+Recall score 0.5761
+TPR score 0.5761, FPR 0.0747
+TP 106.0000, FP 150.0000
+FN 78.0000, TN 1858.0000
+auc 0.7507
+accuracy 0.8960
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5415
+Precision score 0.4912
+Recall score 0.6033
+TPR score 0.6033, FPR 0.0573
+TP 111.0000, FP 115.0000
+FN 73.0000, TN 1893.0000
+auc 0.7730
+accuracy 0.9142
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5280
+Precision score 0.4504
+Recall score 0.6378
+TPR score 0.6378, FPR 0.0717
+TP 118.0000, FP 144.0000
+FN 67.0000, TN 1863.0000
+auc 0.7830
+accuracy 0.9037
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': None, '_n_estimators': None, '_eps': 0.0, '_softmax_tau': 0.1, '_attention_sigma_threshold': 0.7, '_sigma': None, '_w': None, '_mode': <Mode.ATTENTION: 1>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5108
+Precision score 0.4589
+Recall score 0.5761
+TPR score 0.5761, FPR 0.0623
+TP 106.0000, FP 125.0000
+FN 78.0000, TN 1883.0000
+auc 0.7569
+accuracy 0.9074
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5780
+Precision score 0.5000
+Recall score 0.6848
+TPR score 0.6848, FPR 0.0627
+TP 126.0000, FP 126.0000
+FN 58.0000, TN 1882.0000
+auc 0.8110
+accuracy 0.9161
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4844
+Precision score 0.4335
+Recall score 0.5489
+TPR score 0.5489, FPR 0.0657
+TP 101.0000, FP 132.0000
+FN 83.0000, TN 1876.0000
+auc 0.7416
+accuracy 0.9019
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5440
+Precision score 0.5198
+Recall score 0.5707
+TPR score 0.5707, FPR 0.0483
+TP 105.0000, FP 97.0000
+FN 79.0000, TN 1911.0000
+auc 0.7612
+accuracy 0.9197
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5505
+Precision score 0.4781
+Recall score 0.6486
+TPR score 0.6486, FPR 0.0653
+TP 120.0000, FP 131.0000
+FN 65.0000, TN 1876.0000
+auc 0.7917
+accuracy 0.9106
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4964
+Precision score 0.4426
+Recall score 0.5652
+TPR score 0.5652, FPR 0.0652
+TP 104.0000, FP 131.0000
+FN 80.0000, TN 1877.0000
+auc 0.7500
+accuracy 0.9037
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5210
+Precision score 0.4387
+Recall score 0.6413
+TPR score 0.6413, FPR 0.0752
+TP 118.0000, FP 151.0000
+FN 66.0000, TN 1857.0000
+auc 0.7831
+accuracy 0.9010
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4818
+Precision score 0.4141
+Recall score 0.5761
+TPR score 0.5761, FPR 0.0747
+TP 106.0000, FP 150.0000
+FN 78.0000, TN 1858.0000
+auc 0.7507
+accuracy 0.8960
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5415
+Precision score 0.4912
+Recall score 0.6033
+TPR score 0.6033, FPR 0.0573
+TP 111.0000, FP 115.0000
+FN 73.0000, TN 1893.0000
+auc 0.7730
+accuracy 0.9142
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5280
+Precision score 0.4504
+Recall score 0.6378
+TPR score 0.6378, FPR 0.0717
+TP 118.0000, FP 144.0000
+FN 67.0000, TN 1863.0000
+auc 0.7830
+accuracy 0.9037
+End logger: end model inference
+Average F1 score for n_estimators=25, seed=1234: 0.1247
+Average F1 score for n_estimators=25, seed=1241: 0.1319
+Average F1 score for n_estimators=25, seed=1248: 0.1310
+Average F1 score for n_estimators=25, seed=1255: 0.1188
+Average F1 score for n_estimators=25, seed=1262: 0.1228
+Average F1 score for n_estimators=25, seed=1269: 0.1228
+Average F1 score for n_estimators=25, seed=1276: 0.1285
+Average F1 score for n_estimators=25, seed=1283: 0.1258
+Average F1 score for n_estimators=25, seed=1290: 0.1316
+Average F1 score for n_estimators=25, seed=1297: 0.1236
+Average F1 score for n_estimators=25, seed=1304: 0.1219
+Average F1 score for n_estimators=25, seed=1311: 0.1343
+Average F1 score for n_estimators=25, seed=1318: 0.1340
+Average F1 score for n_estimators=25, seed=1325: 0.1374
+Average F1 score for n_estimators=25, seed=1332: 0.1291
+Average F1 score for n_estimators=25, seed=1339: 0.1278
+Average F1 score for n_estimators=25, seed=1346: 0.1233
+Average F1 score for n_estimators=25, seed=1353: 0.1326
+Average F1 score for n_estimators=25, seed=1360: 0.1349
+Average F1 score for n_estimators=25, seed=1367: 0.1262
+Average F1 score for n_estimators=25, seed=1374: 0.1344
+Average F1 score for n_estimators=25, seed=1381: 0.1238
+Average F1 score for n_estimators=25, seed=1388: 0.1342
+Average F1 score for n_estimators=25, seed=1395: 0.1308
+Average F1 score for n_estimators=25, seed=1402: 0.1300
+Average F1 score for n_estimators=25, seed=1409: 0.1301
+Average F1 score for n_estimators=25, seed=1416: 0.1266
+Average F1 score for n_estimators=25, seed=1423: 0.1262
+Average F1 score for n_estimators=25, seed=1430: 0.1377
+Average F1 score for n_estimators=25, seed=1437: 0.1272
+Average F1 score for n_estimators=50, seed=1234: 0.1272
+Average F1 score for n_estimators=50, seed=1241: 0.1323
+Average F1 score for n_estimators=50, seed=1248: 0.1349
+Average F1 score for n_estimators=50, seed=1255: 0.1240
+Average F1 score for n_estimators=50, seed=1262: 0.1276
+Average F1 score for n_estimators=50, seed=1269: 0.1283
+Average F1 score for n_estimators=50, seed=1276: 0.1338
+Average F1 score for n_estimators=50, seed=1283: 0.1276
+Average F1 score for n_estimators=50, seed=1290: 0.1330
+Average F1 score for n_estimators=50, seed=1297: 0.1270
+Average F1 score for n_estimators=50, seed=1304: 0.1246
+Average F1 score for n_estimators=50, seed=1311: 0.1317
+Average F1 score for n_estimators=50, seed=1318: 0.1314
+Average F1 score for n_estimators=50, seed=1325: 0.1327
+Average F1 score for n_estimators=50, seed=1332: 0.1313
+Average F1 score for n_estimators=50, seed=1339: 0.1287
+Average F1 score for n_estimators=50, seed=1346: 0.1291
+Average F1 score for n_estimators=50, seed=1353: 0.1307
+Average F1 score for n_estimators=50, seed=1360: 0.1304
+Average F1 score for n_estimators=50, seed=1367: 0.1312
+Average F1 score for n_estimators=50, seed=1374: 0.1319
+Average F1 score for n_estimators=50, seed=1381: 0.1305
+Average F1 score for n_estimators=50, seed=1388: 0.1322
+Average F1 score for n_estimators=50, seed=1395: 0.1297
+Average F1 score for n_estimators=50, seed=1402: 0.1360
+Average F1 score for n_estimators=50, seed=1409: 0.1334
+Average F1 score for n_estimators=50, seed=1416: 0.1296
+Average F1 score for n_estimators=50, seed=1423: 0.1299
+Average F1 score for n_estimators=50, seed=1430: 0.1343
+Average F1 score for n_estimators=50, seed=1437: 0.1324
+Average F1 score for n_estimators=100, seed=1234: 0.1302
+Average F1 score for n_estimators=100, seed=1241: 0.1307
+Average F1 score for n_estimators=100, seed=1248: 0.1346
+Average F1 score for n_estimators=100, seed=1255: 0.1275
+Average F1 score for n_estimators=100, seed=1262: 0.1282
+Average F1 score for n_estimators=100, seed=1269: 0.1280
+Average F1 score for n_estimators=100, seed=1276: 0.1322
+Average F1 score for n_estimators=100, seed=1283: 0.1272
+Average F1 score for n_estimators=100, seed=1290: 0.1317
+Average F1 score for n_estimators=100, seed=1297: 0.1302
+Average F1 score for n_estimators=100, seed=1304: 0.1271
+Average F1 score for n_estimators=100, seed=1311: 0.1330
+Average F1 score for n_estimators=100, seed=1318: 0.1322
+Average F1 score for n_estimators=100, seed=1325: 0.1313
+Average F1 score for n_estimators=100, seed=1332: 0.1326
+Average F1 score for n_estimators=100, seed=1339: 0.1306
+Average F1 score for n_estimators=100, seed=1346: 0.1278
+Average F1 score for n_estimators=100, seed=1353: 0.1304
+Average F1 score for n_estimators=100, seed=1360: 0.1307
+Average F1 score for n_estimators=100, seed=1367: 0.1299
+Average F1 score for n_estimators=100, seed=1374: 0.1317
+Average F1 score for n_estimators=100, seed=1381: 0.1342
+Average F1 score for n_estimators=100, seed=1388: 0.1336
+Average F1 score for n_estimators=100, seed=1395: 0.1322
+Average F1 score for n_estimators=100, seed=1402: 0.1335
+Average F1 score for n_estimators=100, seed=1409: 0.1299
+Average F1 score for n_estimators=100, seed=1416: 0.1304
+Average F1 score for n_estimators=100, seed=1423: 0.1315
+Average F1 score for n_estimators=100, seed=1430: 0.1338
+Average F1 score for n_estimators=100, seed=1437: 0.1327
+Average F1 score for n_estimators=150, seed=1234: 0.1303
+Average F1 score for n_estimators=150, seed=1241: 0.1333
+Average F1 score for n_estimators=150, seed=1248: 0.1336
+Average F1 score for n_estimators=150, seed=1255: 0.1265
+Average F1 score for n_estimators=150, seed=1262: 0.1294
+Average F1 score for n_estimators=150, seed=1269: 0.1283
+Average F1 score for n_estimators=150, seed=1276: 0.1320
+Average F1 score for n_estimators=150, seed=1283: 0.1278
+Average F1 score for n_estimators=150, seed=1290: 0.1302
+Average F1 score for n_estimators=150, seed=1297: 0.1301
+Average F1 score for n_estimators=150, seed=1304: 0.1287
+Average F1 score for n_estimators=150, seed=1311: 0.1303
+Average F1 score for n_estimators=150, seed=1318: 0.1303
+Average F1 score for n_estimators=150, seed=1325: 0.1308
+Average F1 score for n_estimators=150, seed=1332: 0.1296
+Average F1 score for n_estimators=150, seed=1339: 0.1320
+Average F1 score for n_estimators=150, seed=1346: 0.1281
+Average F1 score for n_estimators=150, seed=1353: 0.1310
+Average F1 score for n_estimators=150, seed=1360: 0.1309
+Average F1 score for n_estimators=150, seed=1367: 0.1309
+Average F1 score for n_estimators=150, seed=1374: 0.1324
+Average F1 score for n_estimators=150, seed=1381: 0.1325
+Average F1 score for n_estimators=150, seed=1388: 0.1305
+Average F1 score for n_estimators=150, seed=1395: 0.1346
+Average F1 score for n_estimators=150, seed=1402: 0.1327
+Average F1 score for n_estimators=150, seed=1409: 0.1293
+Average F1 score for n_estimators=150, seed=1416: 0.1305
+Average F1 score for n_estimators=150, seed=1423: 0.1304
+Average F1 score for n_estimators=150, seed=1430: 0.1332
+Average F1 score for n_estimators=150, seed=1437: 0.1321
+Average F1 score for n_estimators=200, seed=1234: 0.1303
+Average F1 score for n_estimators=200, seed=1241: 0.1316
+Average F1 score for n_estimators=200, seed=1248: 0.1337
+Average F1 score for n_estimators=200, seed=1255: 0.1283
+Average F1 score for n_estimators=200, seed=1262: 0.1292
+Average F1 score for n_estimators=200, seed=1269: 0.1299
+Average F1 score for n_estimators=200, seed=1276: 0.1327
+Average F1 score for n_estimators=200, seed=1283: 0.1278
+Average F1 score for n_estimators=200, seed=1290: 0.1316
+Average F1 score for n_estimators=200, seed=1297: 0.1300
+Average F1 score for n_estimators=200, seed=1304: 0.1290
+Average F1 score for n_estimators=200, seed=1311: 0.1300
+Average F1 score for n_estimators=200, seed=1318: 0.1293
+Average F1 score for n_estimators=200, seed=1325: 0.1305
+Average F1 score for n_estimators=200, seed=1332: 0.1308
+Average F1 score for n_estimators=200, seed=1339: 0.1308
+Average F1 score for n_estimators=200, seed=1346: 0.1294
+Average F1 score for n_estimators=200, seed=1353: 0.1317
+Average F1 score for n_estimators=200, seed=1360: 0.1314
+Average F1 score for n_estimators=200, seed=1367: 0.1316
+Average F1 score for n_estimators=200, seed=1374: 0.1296
+Average F1 score for n_estimators=200, seed=1381: 0.1317
+Average F1 score for n_estimators=200, seed=1388: 0.1334
+Average F1 score for n_estimators=200, seed=1395: 0.1338
+Average F1 score for n_estimators=200, seed=1402: 0.1317
+Average F1 score for n_estimators=200, seed=1409: 0.1293
+Average F1 score for n_estimators=200, seed=1416: 0.1283
+Average F1 score for n_estimators=200, seed=1423: 0.1307
+Average F1 score for n_estimators=200, seed=1430: 0.1321
+Average F1 score for n_estimators=200, seed=1437: 0.1320
+Average F1 score for n_estimators=250, seed=1234: 0.1303
+Average F1 score for n_estimators=250, seed=1241: 0.1328
+Average F1 score for n_estimators=250, seed=1248: 0.1340
+Average F1 score for n_estimators=250, seed=1255: 0.1291
+Average F1 score for n_estimators=250, seed=1262: 0.1302
+Average F1 score for n_estimators=250, seed=1269: 0.1300
+Average F1 score for n_estimators=250, seed=1276: 0.1320
+Average F1 score for n_estimators=250, seed=1283: 0.1295
+Average F1 score for n_estimators=250, seed=1290: 0.1306
+Average F1 score for n_estimators=250, seed=1297: 0.1301
+Average F1 score for n_estimators=250, seed=1304: 0.1312
+Average F1 score for n_estimators=250, seed=1311: 0.1304
+Average F1 score for n_estimators=250, seed=1318: 0.1288
+Average F1 score for n_estimators=250, seed=1325: 0.1308
+Average F1 score for n_estimators=250, seed=1332: 0.1295
+Average F1 score for n_estimators=250, seed=1339: 0.1314
+Average F1 score for n_estimators=250, seed=1346: 0.1309
+Average F1 score for n_estimators=250, seed=1353: 0.1323
+Average F1 score for n_estimators=250, seed=1360: 0.1305
+Average F1 score for n_estimators=250, seed=1367: 0.1303
+Average F1 score for n_estimators=250, seed=1374: 0.1314
+Average F1 score for n_estimators=250, seed=1381: 0.1318
+Average F1 score for n_estimators=250, seed=1388: 0.1319
+Average F1 score for n_estimators=250, seed=1395: 0.1337
+Average F1 score for n_estimators=250, seed=1402: 0.1319
+Average F1 score for n_estimators=250, seed=1409: 0.1295
+Average F1 score for n_estimators=250, seed=1416: 0.1302
+Average F1 score for n_estimators=250, seed=1423: 0.1313
+Average F1 score for n_estimators=250, seed=1430: 0.1310
+Average F1 score for n_estimators=250, seed=1437: 0.1327
+Average F1 score for n_estimators=300, seed=1234: 0.1298
+Average F1 score for n_estimators=300, seed=1241: 0.1333
+Average F1 score for n_estimators=300, seed=1248: 0.1328
+Average F1 score for n_estimators=300, seed=1255: 0.1289
+Average F1 score for n_estimators=300, seed=1262: 0.1318
+Average F1 score for n_estimators=300, seed=1269: 0.1302
+Average F1 score for n_estimators=300, seed=1276: 0.1314
+Average F1 score for n_estimators=300, seed=1283: 0.1302
+Average F1 score for n_estimators=300, seed=1290: 0.1306
+Average F1 score for n_estimators=300, seed=1297: 0.1311
+Average F1 score for n_estimators=300, seed=1304: 0.1299
+Average F1 score for n_estimators=300, seed=1311: 0.1303
+Average F1 score for n_estimators=300, seed=1318: 0.1301
+Average F1 score for n_estimators=300, seed=1325: 0.1317
+Average F1 score for n_estimators=300, seed=1332: 0.1300
+Average F1 score for n_estimators=300, seed=1339: 0.1309
+Average F1 score for n_estimators=300, seed=1346: 0.1310
+Average F1 score for n_estimators=300, seed=1353: 0.1314
+Average F1 score for n_estimators=300, seed=1360: 0.1320
+Average F1 score for n_estimators=300, seed=1367: 0.1302
+Average F1 score for n_estimators=300, seed=1374: 0.1307
+Average F1 score for n_estimators=300, seed=1381: 0.1309
+Average F1 score for n_estimators=300, seed=1388: 0.1316
+Average F1 score for n_estimators=300, seed=1395: 0.1344
+Average F1 score for n_estimators=300, seed=1402: 0.1315
+Average F1 score for n_estimators=300, seed=1409: 0.1275
+Average F1 score for n_estimators=300, seed=1416: 0.1294
+Average F1 score for n_estimators=300, seed=1423: 0.1312
+Average F1 score for n_estimators=300, seed=1430: 0.1306
+Average F1 score for n_estimators=300, seed=1437: 0.1324
+Best parameters: {'offset': 0.5, 'seed': 1241, 'n_estimators': 250}, Max F1: 0.5897
+End logger: end model optimization
+Average F1 score for n_estimators=25, seed=1234: 0.1247
+Average F1 score for n_estimators=25, seed=1234: 0.1247
+Average F1 score for n_estimators=25, seed=1234: 0.1247
+Average F1 score for n_estimators=25, seed=1241: 0.1319
+Average F1 score for n_estimators=25, seed=1248: 0.1310
+Average F1 score for n_estimators=25, seed=1255: 0.1188
+Average F1 score for n_estimators=25, seed=1262: 0.1228
+Average F1 score for n_estimators=25, seed=1269: 0.1228
+Average F1 score for n_estimators=25, seed=1276: 0.1285
+Average F1 score for n_estimators=25, seed=1283: 0.1258
+Average F1 score for n_estimators=25, seed=1290: 0.1316
+Average F1 score for n_estimators=25, seed=1297: 0.1236
+Average F1 score for n_estimators=25, seed=1304: 0.1219
+Average F1 score for n_estimators=25, seed=1311: 0.1343
+Average F1 score for n_estimators=25, seed=1318: 0.1340
+Average F1 score for n_estimators=25, seed=1325: 0.1374
+Average F1 score for n_estimators=25, seed=1332: 0.1291
+Average F1 score for n_estimators=25, seed=1339: 0.1278
+Average F1 score for n_estimators=25, seed=1346: 0.1233
+Average F1 score for n_estimators=25, seed=1353: 0.1326
+Average F1 score for n_estimators=25, seed=1360: 0.1349
+Average F1 score for n_estimators=25, seed=1367: 0.1262
+Average F1 score for n_estimators=25, seed=1374: 0.1344
+Average F1 score for n_estimators=25, seed=1381: 0.1238
+Average F1 score for n_estimators=25, seed=1388: 0.1342
+Average F1 score for n_estimators=25, seed=1395: 0.1308
+Average F1 score for n_estimators=25, seed=1402: 0.1300
+Average F1 score for n_estimators=25, seed=1409: 0.1301
+Average F1 score for n_estimators=25, seed=1416: 0.1266
+Average F1 score for n_estimators=25, seed=1423: 0.1262
+Average F1 score for n_estimators=25, seed=1430: 0.1377
+Average F1 score for n_estimators=25, seed=1437: 0.1272
+Average F1 score for n_estimators=50, seed=1234: 0.1272
+Average F1 score for n_estimators=50, seed=1241: 0.1323
+Average F1 score for n_estimators=50, seed=1248: 0.1349
+Average F1 score for n_estimators=50, seed=1255: 0.1240
+Average F1 score for n_estimators=50, seed=1262: 0.1276
+Average F1 score for n_estimators=50, seed=1269: 0.1283
+Average F1 score for n_estimators=50, seed=1276: 0.1338
+Average F1 score for n_estimators=50, seed=1283: 0.1276
+Average F1 score for n_estimators=50, seed=1290: 0.1330
+Average F1 score for n_estimators=50, seed=1297: 0.1270
+Average F1 score for n_estimators=50, seed=1304: 0.1246
+Average F1 score for n_estimators=50, seed=1311: 0.1317
+Average F1 score for n_estimators=50, seed=1318: 0.1314
+Average F1 score for n_estimators=50, seed=1325: 0.1327
+Average F1 score for n_estimators=50, seed=1332: 0.1313
+Average F1 score for n_estimators=50, seed=1339: 0.1287
+Average F1 score for n_estimators=50, seed=1346: 0.1291
+Average F1 score for n_estimators=50, seed=1353: 0.1307
+Average F1 score for n_estimators=50, seed=1360: 0.1304
+Average F1 score for n_estimators=50, seed=1367: 0.1312
+Average F1 score for n_estimators=50, seed=1374: 0.1319
+Average F1 score for n_estimators=50, seed=1381: 0.1305
+Average F1 score for n_estimators=50, seed=1388: 0.1322
+Average F1 score for n_estimators=50, seed=1395: 0.1297
+Average F1 score for n_estimators=50, seed=1402: 0.1360
+Average F1 score for n_estimators=50, seed=1409: 0.1334
+Average F1 score for n_estimators=50, seed=1416: 0.1296
+Average F1 score for n_estimators=50, seed=1423: 0.1299
+Average F1 score for n_estimators=50, seed=1430: 0.1343
+Average F1 score for n_estimators=50, seed=1437: 0.1324
+Average F1 score for n_estimators=100, seed=1234: 0.1302
+Average F1 score for n_estimators=100, seed=1241: 0.1307
+Average F1 score for n_estimators=100, seed=1248: 0.1346
+Average F1 score for n_estimators=100, seed=1255: 0.1275
+Average F1 score for n_estimators=100, seed=1262: 0.1282
+Average F1 score for n_estimators=100, seed=1269: 0.1280
+Average F1 score for n_estimators=100, seed=1276: 0.1322
+Average F1 score for n_estimators=100, seed=1283: 0.1272
+Average F1 score for n_estimators=100, seed=1290: 0.1317
+Average F1 score for n_estimators=100, seed=1297: 0.1302
+Average F1 score for n_estimators=100, seed=1304: 0.1271
+Average F1 score for n_estimators=100, seed=1311: 0.1330
+Average F1 score for n_estimators=100, seed=1318: 0.1322
+Average F1 score for n_estimators=100, seed=1325: 0.1313
+Average F1 score for n_estimators=100, seed=1332: 0.1326
+Average F1 score for n_estimators=100, seed=1339: 0.1306
+Average F1 score for n_estimators=100, seed=1346: 0.1278
+Average F1 score for n_estimators=100, seed=1353: 0.1304
+Average F1 score for n_estimators=100, seed=1360: 0.1307
+Average F1 score for n_estimators=100, seed=1367: 0.1299
+Average F1 score for n_estimators=100, seed=1374: 0.1317
+Average F1 score for n_estimators=100, seed=1381: 0.1342
+Average F1 score for n_estimators=100, seed=1388: 0.1336
+Average F1 score for n_estimators=100, seed=1395: 0.1322
+Average F1 score for n_estimators=100, seed=1402: 0.1335
+Average F1 score for n_estimators=100, seed=1409: 0.1299
+Average F1 score for n_estimators=100, seed=1416: 0.1304
+Average F1 score for n_estimators=100, seed=1423: 0.1315
+Average F1 score for n_estimators=100, seed=1430: 0.1338
+Average F1 score for n_estimators=100, seed=1437: 0.1327
+Average F1 score for n_estimators=150, seed=1234: 0.1303
+Average F1 score for n_estimators=150, seed=1241: 0.1333
+Average F1 score for n_estimators=150, seed=1248: 0.1336
+Average F1 score for n_estimators=150, seed=1255: 0.1265
+Average F1 score for n_estimators=150, seed=1262: 0.1294
+Average F1 score for n_estimators=150, seed=1269: 0.1283
+Average F1 score for n_estimators=150, seed=1276: 0.1320
+Average F1 score for n_estimators=150, seed=1283: 0.1278
+Average F1 score for n_estimators=150, seed=1290: 0.1302
+Average F1 score for n_estimators=150, seed=1297: 0.1301
+Average F1 score for n_estimators=150, seed=1304: 0.1287
+Average F1 score for n_estimators=150, seed=1311: 0.1303
+Average F1 score for n_estimators=150, seed=1318: 0.1303
+Average F1 score for n_estimators=150, seed=1325: 0.1308
+Average F1 score for n_estimators=150, seed=1332: 0.1296
+Average F1 score for n_estimators=150, seed=1339: 0.1320
+Average F1 score for n_estimators=150, seed=1346: 0.1281
+Average F1 score for n_estimators=150, seed=1353: 0.1310
+Average F1 score for n_estimators=150, seed=1360: 0.1309
+Average F1 score for n_estimators=150, seed=1367: 0.1309
+Average F1 score for n_estimators=150, seed=1374: 0.1324
+Average F1 score for n_estimators=150, seed=1381: 0.1325
+Average F1 score for n_estimators=150, seed=1388: 0.1305
+Average F1 score for n_estimators=150, seed=1395: 0.1346
+Average F1 score for n_estimators=150, seed=1402: 0.1327
+Average F1 score for n_estimators=150, seed=1409: 0.1293
+Average F1 score for n_estimators=150, seed=1416: 0.1305
+Average F1 score for n_estimators=150, seed=1423: 0.1304
+Average F1 score for n_estimators=150, seed=1430: 0.1332
+Average F1 score for n_estimators=150, seed=1437: 0.1321
+Average F1 score for n_estimators=200, seed=1234: 0.1303
+Average F1 score for n_estimators=200, seed=1241: 0.1316
+Average F1 score for n_estimators=200, seed=1248: 0.1337
+Average F1 score for n_estimators=200, seed=1255: 0.1283
+Average F1 score for n_estimators=200, seed=1262: 0.1292
+Average F1 score for n_estimators=200, seed=1269: 0.1299
+Average F1 score for n_estimators=200, seed=1276: 0.1327
+Average F1 score for n_estimators=200, seed=1283: 0.1278
+Average F1 score for n_estimators=200, seed=1290: 0.1316
+Average F1 score for n_estimators=200, seed=1297: 0.1300
+Average F1 score for n_estimators=200, seed=1304: 0.1290
+Average F1 score for n_estimators=200, seed=1311: 0.1300
+Average F1 score for n_estimators=200, seed=1318: 0.1293
+Average F1 score for n_estimators=200, seed=1325: 0.1305
+Average F1 score for n_estimators=200, seed=1332: 0.1308
+Average F1 score for n_estimators=200, seed=1339: 0.1308
+Average F1 score for n_estimators=200, seed=1346: 0.1294
+Average F1 score for n_estimators=200, seed=1353: 0.1317
+Average F1 score for n_estimators=200, seed=1360: 0.1314
+Average F1 score for n_estimators=200, seed=1367: 0.1316
+Average F1 score for n_estimators=200, seed=1374: 0.1296
+Average F1 score for n_estimators=200, seed=1381: 0.1317
+Average F1 score for n_estimators=200, seed=1388: 0.1334
+Average F1 score for n_estimators=200, seed=1395: 0.1338
+Average F1 score for n_estimators=200, seed=1402: 0.1317
+Average F1 score for n_estimators=200, seed=1409: 0.1293
+Average F1 score for n_estimators=200, seed=1416: 0.1283
+Average F1 score for n_estimators=200, seed=1423: 0.1307
+Average F1 score for n_estimators=200, seed=1430: 0.1321
+Average F1 score for n_estimators=200, seed=1437: 0.1320
+Average F1 score for n_estimators=250, seed=1234: 0.1303
+Average F1 score for n_estimators=250, seed=1241: 0.1328
+Average F1 score for n_estimators=250, seed=1248: 0.1340
+Average F1 score for n_estimators=250, seed=1255: 0.1291
+Average F1 score for n_estimators=250, seed=1262: 0.1302
+Average F1 score for n_estimators=250, seed=1269: 0.1300
+Average F1 score for n_estimators=250, seed=1276: 0.1320
+Average F1 score for n_estimators=250, seed=1283: 0.1295
+Average F1 score for n_estimators=250, seed=1290: 0.1306
+Average F1 score for n_estimators=250, seed=1297: 0.1301
+Average F1 score for n_estimators=250, seed=1304: 0.1312
+Average F1 score for n_estimators=250, seed=1311: 0.1304
+Average F1 score for n_estimators=250, seed=1318: 0.1288
+Average F1 score for n_estimators=250, seed=1325: 0.1308
+Average F1 score for n_estimators=250, seed=1332: 0.1295
+Average F1 score for n_estimators=250, seed=1339: 0.1314
+Average F1 score for n_estimators=250, seed=1346: 0.1309
+Average F1 score for n_estimators=250, seed=1353: 0.1323
+Average F1 score for n_estimators=250, seed=1360: 0.1305
+Average F1 score for n_estimators=250, seed=1367: 0.1303
+Average F1 score for n_estimators=250, seed=1374: 0.1314
+Average F1 score for n_estimators=250, seed=1381: 0.1318
+Average F1 score for n_estimators=250, seed=1388: 0.1319
+Average F1 score for n_estimators=250, seed=1395: 0.1337
+Average F1 score for n_estimators=250, seed=1402: 0.1319
+Average F1 score for n_estimators=250, seed=1409: 0.1295
+Average F1 score for n_estimators=250, seed=1416: 0.1302
+Average F1 score for n_estimators=250, seed=1423: 0.1313
+Average F1 score for n_estimators=250, seed=1430: 0.1310
+Average F1 score for n_estimators=250, seed=1437: 0.1327
+Average F1 score for n_estimators=300, seed=1234: 0.1298
+Average F1 score for n_estimators=300, seed=1241: 0.1333
+Average F1 score for n_estimators=300, seed=1248: 0.1328
+Average F1 score for n_estimators=300, seed=1255: 0.1289
+Average F1 score for n_estimators=300, seed=1262: 0.1318
+Average F1 score for n_estimators=300, seed=1269: 0.1302
+Average F1 score for n_estimators=300, seed=1276: 0.1314
+Average F1 score for n_estimators=300, seed=1283: 0.1302
+Average F1 score for n_estimators=300, seed=1290: 0.1306
+Average F1 score for n_estimators=300, seed=1297: 0.1311
+Average F1 score for n_estimators=300, seed=1304: 0.1299
+Average F1 score for n_estimators=300, seed=1311: 0.1303
+Average F1 score for n_estimators=300, seed=1318: 0.1301
+Average F1 score for n_estimators=300, seed=1325: 0.1317
+Average F1 score for n_estimators=300, seed=1332: 0.1300
+Average F1 score for n_estimators=300, seed=1339: 0.1309
+Average F1 score for n_estimators=300, seed=1346: 0.1310
+Average F1 score for n_estimators=300, seed=1353: 0.1314
+Average F1 score for n_estimators=300, seed=1360: 0.1320
+Average F1 score for n_estimators=300, seed=1367: 0.1302
+Average F1 score for n_estimators=300, seed=1374: 0.1307
+Average F1 score for n_estimators=300, seed=1381: 0.1309
+Average F1 score for n_estimators=300, seed=1388: 0.1316
+Average F1 score for n_estimators=300, seed=1395: 0.1344
+Average F1 score for n_estimators=300, seed=1402: 0.1315
+Average F1 score for n_estimators=300, seed=1409: 0.1275
+Average F1 score for n_estimators=300, seed=1416: 0.1294
+Average F1 score for n_estimators=300, seed=1423: 0.1312
+Average F1 score for n_estimators=300, seed=1430: 0.1306
+Average F1 score for n_estimators=300, seed=1437: 0.1324
+Best parameters: {'offset': 0.5, 'seed': 1241, 'n_estimators': 250}, Max F1: 0.5897
+End logger: end model optimization
+Best parameters: {'offset': 0.5, 'seed': 1241, 'n_estimators': 250}, Max F1: 0.5897
+End logger: end model optimization
+Best parameters: {'offset': 0.5, 'seed': 1409, 'n_estimators': 100}, Max Average F1: 0.5605
+End logger: end model optimization
+Best parameters: {'offset': 0.5, 'seed': 1395, 'n_estimators': 300}, Max Average F1: 0.5461
+End logger: end model optimization
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.4632
+Precision score 0.4490
+Recall score 0.4783
+TPR score 0.4783, FPR 0.0538
+TP 88.0000, FP 108.0000
+FN 96.0000, TN 1900.0000
+auc 0.7122
+accuracy 0.9069
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5307
+Precision score 0.4843
+Recall score 0.5870
+TPR score 0.5870, FPR 0.0573
+TP 108.0000, FP 115.0000
+FN 76.0000, TN 1893.0000
+auc 0.7648
+accuracy 0.9129
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5231
+Precision score 0.4556
+Recall score 0.6141
+TPR score 0.6141, FPR 0.0672
+TP 113.0000, FP 135.0000
+FN 71.0000, TN 1873.0000
+auc 0.7734
+accuracy 0.9060
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5372
+Precision score 0.5260
+Recall score 0.5489
+TPR score 0.5489, FPR 0.0453
+TP 101.0000, FP 91.0000
+FN 83.0000, TN 1917.0000
+auc 0.7518
+accuracy 0.9206
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5850
+Precision score 0.5442
+Recall score 0.6324
+TPR score 0.6324, FPR 0.0488
+TP 117.0000, FP 98.0000
+FN 68.0000, TN 1909.0000
+auc 0.7918
+accuracy 0.9243
+Average F1 score: 0.5279
+Average Precision score: 0.4918
+Average Recall score: 0.5721
+Sorted metrics (F1, Precision, Recall):
+F1: 0.5850, Precision: 0.5442, Recall: 0.6324
+F1: 0.5372, Precision: 0.5260, Recall: 0.5489
+F1: 0.5307, Precision: 0.4843, Recall: 0.5870
+F1: 0.5231, Precision: 0.4556, Recall: 0.6141
+F1: 0.4632, Precision: 0.4490, Recall: 0.4783
+End logger: end model inference
+
+Best parameters: {'offset': 0.5, 'seed': 1409.0, 'n_estimators': 100.0, 'avg_f1': 0.560462609125795}, Max Average F1: 0.5605
+End logger: end model optimization
+Best parameters: {'n_estimators': 150, 'offset': 0.5, 'seed': 1262}, Max Average F1: 0.5657
+End logger: end model optimization
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5103
+Precision score 0.4853
+Recall score 0.5380
+TPR score 0.5380, FPR 0.0523
+TP 99.0000, FP 105.0000
+FN 85.0000, TN 1903.0000
+auc 0.7429
+accuracy 0.9133
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5823
+Precision score 0.5450
+Recall score 0.6250
+TPR score 0.6250, FPR 0.0478
+TP 115.0000, FP 96.0000
+FN 69.0000, TN 1912.0000
+auc 0.7886
+accuracy 0.9247
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5315
+Precision score 0.4653
+Recall score 0.6196
+TPR score 0.6196, FPR 0.0652
+TP 114.0000, FP 131.0000
+FN 70.0000, TN 1877.0000
+auc 0.7772
+accuracy 0.9083
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5592
+Precision score 0.4958
+Recall score 0.6413
+TPR score 0.6413, FPR 0.0598
+TP 118.0000, FP 120.0000
+FN 66.0000, TN 1888.0000
+auc 0.7908
+accuracy 0.9151
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5769
+Precision score 0.5195
+Recall score 0.6486
+TPR score 0.6486, FPR 0.0553
+TP 120.0000, FP 111.0000
+FN 65.0000, TN 1896.0000
+auc 0.7967
+accuracy 0.9197
+End logger: end model inference
+
+Start logger: model: <class 'atif.models.attention_based_isolation_forest_sklearn.AttentionBasedIsolationForestSklearn'>: {'_logger': None, '_clf': None, '_original_if_offset': -0.5, '_n_estimators': None, '_eps': None, '_softmax_tau': None, '_attention_sigma_threshold': None, '_sigma': None, '_w': None, '_mode': <Mode.CLASSIC: (0,)>}
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5281
+Precision score 0.4800
+Recall score 0.5870
+TPR score 0.5870, FPR 0.0583
+TP 108.0000, FP 117.0000
+FN 76.0000, TN 1891.0000
+auc 0.7643
+accuracy 0.9120
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5742
+Precision score 0.5198
+Recall score 0.6413
+TPR score 0.6413, FPR 0.0543
+TP 118.0000, FP 109.0000
+FN 66.0000, TN 1899.0000
+auc 0.7935
+accuracy 0.9202
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5682
+Precision score 0.4883
+Recall score 0.6793
+TPR score 0.6793, FPR 0.0652
+TP 125.0000, FP 131.0000
+FN 59.0000, TN 1877.0000
+auc 0.8071
+accuracy 0.9133
+Proportion anomalies/normal = 184/2008 = 9.2%
+F1 score 0.5610
+Precision score 0.5373
+Recall score 0.5870
+TPR score 0.5870, FPR 0.0463
+TP 108.0000, FP 93.0000
+FN 76.0000, TN 1915.0000
+auc 0.7703
+accuracy 0.9229
+Proportion anomalies/normal = 185/2007 = 9.2%
+F1 score 0.5708
+Precision score 0.5000
+Recall score 0.6649
+TPR score 0.6649, FPR 0.0613
+TP 123.0000, FP 123.0000
+FN 62.0000, TN 1884.0000
+auc 0.8018
+accuracy 0.9156
+End logger: end model inference
+Best parameters: {'n_estimators': 100, 'offset': 0.5, 'seed': 1409}, Max Average F1: 0.5605
+End logger: end model optimization

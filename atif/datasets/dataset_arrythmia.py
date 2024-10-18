@@ -46,7 +46,7 @@ class DatasetArrythmia(AbstractDataset):
         norm_data = df[df[target] == 0]
 
         data = df.drop([target], axis=1).values
-        X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.33, random_state=42)
+        X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.20, random_state=42)
         self.X_train = X_train
         self.X_test = X_test
         self.y_train = y_train
@@ -56,4 +56,4 @@ class DatasetArrythmia(AbstractDataset):
         pass
 
     def get_name(self) -> str:
-        return "ionosphere"
+        return "arrythmia"

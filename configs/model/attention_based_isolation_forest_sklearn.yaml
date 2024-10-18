@@ -1,14 +1,14 @@
 type_model:
   _target_: atif.models.AttentionBasedIsolationForestSklearn
-  mode: 1
+  mode: 0
 
-n_estimators: 150
-seed: 1430
+n_estimators: 100
+seed: 1409
 
 attention_param:
-  eps: 0.5 # contamination parameter
-  softmax_tau: 0.4 # anomaly_score_threshold
-  attention_sigma_threshold: 0.5
+  eps: 0.0 # contamination_parameter
+  softmax_tau: 0.1 # anomaly_score_threshold
+  attention_sigma_threshold: 0.7
 
 isolation_forest_param:
-  offset: 0.3
+  offset: 0.5

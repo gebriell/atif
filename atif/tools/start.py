@@ -25,13 +25,13 @@ class Solution:
                         self._dataset.y_train)
         y_prediction = self._model.predict(self._dataset.X_test, self._dataset.y_test)
         self._dataset.plot_dataset(self._dataset.X_train, self._dataset.y_train,
-                                   "/Users/andreyageev/PycharmProjects/ATIF/image_27_08/train_"
+                                   "/home/dev/files/data/env/Attention-based-isolation-forest/atif/train_" 
                                    + self._dataset.get_name() + ".jpg")
         self._dataset.plot_dataset(self._dataset.X_test, self._dataset.y_test,
-                                   "/Users/andreyageev/PycharmProjects/ATIF/image_27_08/test_"
+                                   "/home/dev/files/data/env/Attention-based-isolation-forest/atif/test_"
                                    + self._dataset.get_name() + ".jpg")
         self._dataset.plot_dataset(self._dataset.X_test, y_prediction,
-                                   "/Users/andreyageev/PycharmProjects/ATIF/image_27_08/predict_"
+                                   "/home/dev/files/data/env/Attention-based-isolation-forest/atif/predict_"
                                    + self._model.get_name() + "_" + self._dataset.get_name() + ".jpg")
         self._log_metrics(y_prediction)
 
