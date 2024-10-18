@@ -83,7 +83,7 @@ class DatasetAnomaly(AbstractDataset):
         plt.xticks(range(2), ["Normal", "Outlier"])
         plt.xlabel("Class")
         plt.ylabel("Frequency")
-        plt.savefig("/home/dev/files/data/env/Attention-based-isolation-forest/atif/anomaly_dataset.jpg")
+        plt.savefig("")
 
         # Initialize the StratifiedKFold
         self.kf = StratifiedKFold(n_splits=self.n_splits, shuffle=True, random_state=42)
