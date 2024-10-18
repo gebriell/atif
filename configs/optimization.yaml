@@ -4,4 +4,4 @@ defaults:
   - dataset: anomaly
   - logger: logger
 
-report_path: "/home/dev/files/data/env/Attention-based-isolation-forest/atif/optimization_report.csv"
+report_path: ""
