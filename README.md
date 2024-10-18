@@ -11,6 +11,7 @@
 
  - configs/logger.yaml
  - configs/dataset/anomaly.yaml
+ - configs/optimization.yaml
  - datasets/dataset_anomaly.py
 
 # run:
